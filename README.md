@@ -25,6 +25,8 @@ or
 ```
 pip install MDAnalysis mdanalysistests
 conda install -c conda-forge openmm
+pip install mpi4py
+
 ```
 
 ## Step 4. Install WESTPA 2.0
